@@ -1,0 +1,6 @@
+D:\Responsi\Responsi\Responsi\bin\Debug\Responsi.exe.config
+D:\Responsi\Responsi\Responsi\bin\Debug\Responsi.exe
+D:\Responsi\Responsi\Responsi\bin\Debug\Responsi.pdb
+D:\Responsi\Responsi\Responsi\obj\Debug\Responsi.csprojResolveAssemblyReference.cache
+D:\Responsi\Responsi\Responsi\obj\Debug\Responsi.exe
+D:\Responsi\Responsi\Responsi\obj\Debug\Responsi.pdb
